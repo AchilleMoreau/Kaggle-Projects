@@ -1,2 +1,2 @@
 # Kaggle-Projects
-Folder for my Kaggle
+Folder for my Kaggle Participation
